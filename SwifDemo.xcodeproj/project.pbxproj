@@ -74,9 +74,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		54069FBB21B6119B00941ECC /* BaseDemo */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = BaseDemo;
+			sourceTree = "<group>";
+		};
 		545C2809211F0AE5008AA6C4 = {
 			isa = PBXGroup;
 			children = (
+				54069FBB21B6119B00941ECC /* BaseDemo */,
 				545C2814211F0AE5008AA6C4 /* SwifDemo */,
 				545C2829211F0AE6008AA6C4 /* SwifDemoTests */,
 				545C2834211F0AE6008AA6C4 /* SwifDemoUITests */,
